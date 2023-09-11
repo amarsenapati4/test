@@ -1,0 +1,5 @@
+{{#user}}
+Name: AMAR KISHORE SENAPATI
+Skills: HTML, CSS, JS, Next.js
+Email: amarsenapati4@gmail.com
+{{/user}}
